@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "doctor's appointment",
+      "day": "may 5th at 2:30 pm ",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "meeting at school",
+      "day": "january  5th at 2:30 pm ",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "out",
+      "day": "january  5th at 2:30 pm ",
+      "reminder": true
+    },
+    {
+      "text": "jana testing her angular first project",
+      "day": "19 march",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "hello testmarch",
+      "day": "march",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "visit ",
+      "day": "30 march",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}

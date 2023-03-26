@@ -1,0 +1,47 @@
+#day {
+    margin: 10px 20px 10px;
+    border: solid 5px peachpuff;
+    width : 1000px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#reminder {
+    margin: 15px;
+    
+}
+.form-control {
+    background-color: rgb(84, 45, 70);
+    margin-left: 20px;
+    padding: 0px 5px 5px 5px;
+    color : rgb(234, 205, 234);
+    font-size: 20px;
+}
+#text {
+    margin : 10px 20px;
+    width : 1000px;
+    height: 30px;
+    border : solid 5px peachpuff;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form-control-check{
+  size: 100px;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 500px;
+  padding : 1px 10px 5px 100px;
+  border : solid rgb(234, 205, 234);
+  position: relative;
+
+}
+.btn-block{
+  position: relative;
+  margin-left: 40px;
+  margin-top : 20px;
+  width: 700px;
+  font-size: 24px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: bisque;
+}

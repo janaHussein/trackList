@@ -1,0 +1,26 @@
+header {
+    display : flex ;
+    justify-content: space-between;
+    align-items : center ;
+    margin-bottom : 20 px ;
+}
+app-button {
+    width: 100px;
+    height : 0px;
+    color : rgb(242, 211, 224);
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: larger;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    font-size : 30px;
+    display : flex;
+    margin : 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 5px rosybrown;
+    border-left: solid 5px rosybrown;
+}
